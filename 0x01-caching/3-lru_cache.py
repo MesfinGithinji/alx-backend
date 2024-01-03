@@ -1,4 +1,4 @@
-i#!/usr/bin/env python3
+#!/usr/bin/env python3
 """Least Recently Used.
 """
 from collections import OrderedDict
